@@ -1,0 +1,31 @@
+{
+  "String": "hello",
+  "Int64": 1,
+  "Int32": 2,
+  "Int": 3,
+  "Uint64": 4,
+  "Uint32": 5,
+  "Uint": 6,
+  "Bool": true,
+  "RequiredString": "required filled in",
+  "required_renamed_string": "required_renamed filled in",
+  "Nested": {
+    "String": "hello",
+    "Bool": false
+  },
+  "NestedPtr": {
+    "Bool": true
+  },
+  "ArrayOfNums": [
+    1,
+    2,
+    3
+  ],
+  "ArrayOfStuff": [
+    {},
+    {
+      "String": "what is up again",
+      "Bool": true
+    }
+  ]
+}

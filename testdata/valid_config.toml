@@ -1,0 +1,23 @@
+string = "hello"
+int64 = 1
+int32 = 2
+int = 3
+uint64 = 4
+uint32 = 5
+uint = 6
+bool = true
+requiredstring = "required filled in"
+required_renamed_string = "required_renamed filled in"
+arrayofnums = [1,2,3]
+
+[nested]
+string = "hello"
+bool = false
+
+[nestedptr]
+bool = true
+
+[[arrayofstuff]]
+[[arrayofstuff]]
+string = "what is up again"
+bool = true
