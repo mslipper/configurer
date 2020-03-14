@@ -1,3 +1,6 @@
+[![configurer](https://circleci.com/gh/mslipper/configurer.svg?style=svg)](https://github.com/mslipper/configurer)
+
+
 # configurer
 
 A Golang library for configuration management.
